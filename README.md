@@ -26,10 +26,12 @@ Questions we address include:
 ---
 
 ## Dataset
-Dataset 1:
+Dataset 1: Startup Founders Dataset
 
-- Kaggle: *Startup Founders Dataset*  
-- Manual collection via AngelList / Crunchbase (for smaller size)  
+Dataset 2: Startup Funding Stage 
+
+ 
+- Manual collection via AngelList 
 
 **Key Columns:**
 | Column Name     | Description                                  |
