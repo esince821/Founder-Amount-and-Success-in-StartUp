@@ -6,10 +6,7 @@
 - [Motivation](#motivation)  
 - [Dataset](#dataset)  
 - [Methods](#methods)  
-- [Results & Discussion](#results--discussion)  
-- [How to Run](#how-to-run)  
-- [Dependencies](#dependencies)  
-- [Author & License](#author--license)  
+- [Results & Discussion](#results--discussion)   
 
 ---
 
