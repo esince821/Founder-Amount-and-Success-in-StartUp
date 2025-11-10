@@ -26,7 +26,8 @@ Questions we address include:
 ---
 
 ## Dataset
-**Potential Sources:**  
+Dataset 1:
+
 - Kaggle: *Startup Founders Dataset*  
 - Manual collection via AngelList / Crunchbase (for smaller size)  
 
